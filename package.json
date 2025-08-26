@@ -2,7 +2,6 @@
   "name": "diario-do-trader_v2",
   "private": true,
   "version": "0.0.0",
-  "homepage": "fernandomagosso.github.io/Diario_Trade_v2/",
   "type": "module",
   "scripts": {
     "dev": "vite",
