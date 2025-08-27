@@ -712,7 +712,6 @@ const App = () => {
         )
       )
     )
-  );
 };
 
 const container = document.getElementById('root');
